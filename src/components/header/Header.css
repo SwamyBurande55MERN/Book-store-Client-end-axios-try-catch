@@ -1,0 +1,38 @@
+.header {
+  background-color: #2196f3; /* Change the background color as desired */
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+}
+
+.logo-container {
+  margin-right: 16px;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.book-icon {
+  font-size: 24px;
+  margin-right: 8px;
+}
+
+.nav-items {
+  display: flex;
+  margin-left : auto;
+  align-items: center;
+}
+
+.nav-link {
+  margin-right: 16px;
+  text-decoration: none;
+  color: white;
+}
+
+.nav-link:hover {
+  color: #cccccc;
+}

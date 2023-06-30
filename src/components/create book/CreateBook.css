@@ -1,0 +1,113 @@
+.Newbook-container{
+      text-align: center;
+}
+.Newbook-container{
+      border: 1px solid black;
+      height: max-content;
+      padding : 2rem;
+      margin : 2rem 3rem;
+      border-radius: 0.5rem;
+      box-shadow: 1px 2px 3px;
+}
+
+input{
+      width: 15rem;
+      align-content : center;
+}
+
+
+.header {
+      background-color: #2196f3; /* Change the background color as desired */
+      display: flex;
+      align-items: center;
+      padding: 8px 16px;
+    }
+    
+    .logo-container {
+      margin-right: 16px;
+    }
+    
+    .logo-link {
+      text-decoration: none;
+      color: white;
+      display: flex;
+      align-items: center;
+    }
+    
+    .book-icon {
+      font-size: 24px;
+      margin-right: 8px;
+    }
+    
+    .nav-items {
+      display: flex;
+      margin-left : auto;
+      align-items: center;
+    }
+    
+    .nav-link {
+      margin-right: 16px;
+      text-decoration: none;
+      color: white;
+    }
+    
+    .nav-link:hover {
+      color: #cccccc;
+    }
+    
+
+    #available{
+      position: relative;
+      left: 2rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+.header {
+      background-color: #2196f3; /* Change the background color as desired */
+      display: flex;
+      align-items: center;
+      padding: 8px 16px;
+    }
+    
+    .logo-container {
+      margin-right: 16px;
+    }
+    
+    .logo-link {
+      text-decoration: none;
+      color: white;
+      display: flex;
+      align-items: center;
+    }
+    
+    .book-icon {
+      font-size: 24px;
+      margin-right: 8px;
+    }
+    
+    .nav-items {
+      display: flex;
+      margin-left : auto;
+      align-items: center;
+    }
+    
+    .nav-link {
+      margin-right: 16px;
+      text-decoration: none;
+      color: white;
+    }
+    
+    .nav-link:hover {
+      color: #cccccc;
+    }
+    
